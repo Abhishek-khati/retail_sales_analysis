@@ -1,5 +1,10 @@
 # SQL Retail Sales Analysis
 
+<p align="center">
+  <img src="retailsales.jfif" alt="Retail Sales Dashboard" width="1000" height ="500"/>
+</p>
+
+---
 ## Project Overview
 This project analyzes a retail sales dataset using PostgreSQL.  
 The main objective of this project is to perform data cleaning, data exploration, and business analysis using SQL queries.
