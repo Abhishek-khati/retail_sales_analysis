@@ -1,4 +1,4 @@
----sql retail sales analysis---
+---Sql Retail Sales Analysis---
 drop table if exists retailsales ;
 CREATE TABLE retailsales(
 transactions_id	int primary key,
